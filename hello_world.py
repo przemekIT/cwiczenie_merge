@@ -6,3 +6,5 @@ def Dima():
 
 def Przemek2():
     print("Mam na imie Przemek2")
+def Dima2():
+    print("znowu Dima")

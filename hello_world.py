@@ -6,3 +6,4 @@ def Dima():
 
 def Dima2():
     print("znowu Dima")
+
